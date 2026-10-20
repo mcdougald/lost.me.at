@@ -2,7 +2,7 @@
   "domain": "lost.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "19791f2e14282de70f9dccb0180a6c1f76c6696b724dcc0dbe6d9c97b63e6b7e",
+  "contentHash": "06b0a646b261511a7f976f1f2e11a2971fa5c27c169268d5f4785fb33fafeaa5",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",
