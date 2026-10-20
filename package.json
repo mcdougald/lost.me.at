@@ -1,0 +1,7 @@
+{
+  "name": "lost-me-at",
+  "description": "Lost and found for the *.me.at domains: a searchable directory, 404 recovery, and short-link resolution",
+  "homepage": "https://lost.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
